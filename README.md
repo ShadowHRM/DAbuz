@@ -6,3 +6,6 @@ For example, here is [python 3.9.6](https://www.python.org/ftp/python/3.9.6/pyth
 - If you don't have python you should install it. **Don't forget to add interpreter to `PATH` while installing python**.
 - Run `preinstall.ps1` script to install virtualenv
 - To start the program run `Start.ps1` script
+
+# Customize
+- You can change `notify.mp3` file to whatever you want, just make sure that this file is exist in source directory
