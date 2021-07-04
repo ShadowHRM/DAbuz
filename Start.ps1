@@ -1,2 +1,2 @@
-source\venv\Scripts\python.exe main.py
+source\venv\Scripts\python.exe source\main.py
 pause
